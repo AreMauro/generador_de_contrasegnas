@@ -24,3 +24,5 @@ def creadorDeContraseña() -> str:
         password += eleccion
 
         i += 1
+
+    return password
